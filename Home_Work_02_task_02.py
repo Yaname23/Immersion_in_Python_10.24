@@ -1,4 +1,4 @@
-num = int(input('ВВелите целое число: '))
+num = int(input('Введите целое число: '))
 number = num
 hexadecimal_digits = "0123456789ABCDEF"
 hexadecimal_number = ""
